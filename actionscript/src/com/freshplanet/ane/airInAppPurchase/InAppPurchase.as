@@ -16,7 +16,7 @@
 //  
 //////////////////////////////////////////////////////////////////////////////////////
 
-package com.freshplanet.ane.AirInAppPurchase
+package com.freshplanet.ane.airInAppPurchase
 {
 	import flash.events.EventDispatcher;
 	import flash.events.StatusEvent;
